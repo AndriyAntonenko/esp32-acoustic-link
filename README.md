@@ -6,9 +6,9 @@ TX repeatedly sends the string `WHAT HATH GOD WROUGHT`. RX decodes each byte and
 
 ## Demo
 
-<video src="docs/demo.mp4" controls width="640"></video>
+<video src="https://github.com/AndriyAntonenko/esp32-acoustic-link/raw/main/docs/demo.mp4" controls width="640"></video>
 
-[Download the clip](docs/demo.mp4) if the player above does not load.
+[Download the clip](https://github.com/AndriyAntonenko/esp32-acoustic-link/raw/main/docs/demo.mp4) if the player above does not load.
 
 ## Hardware
 
